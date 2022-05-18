@@ -1,4 +1,5 @@
 roberta-finetuned-sst2/
 fine_tuned_model_weights.pth
 .env/
+roberta-finetuned-cola/
 .ipynb_checkpoints/
